@@ -3,13 +3,13 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at every 12AM UTC
-    - cron: "0 0 * * *"
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
 
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: KaganCubukcu/KaganCubukcu@main
         with:

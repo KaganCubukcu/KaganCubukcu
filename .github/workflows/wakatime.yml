@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: windows-latest
     steps:
-      - uses: KaganCubukcu/KaganCubukcu@master
+      - uses: KaganCubukcu/KaganCubukcu@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kağan</h1>
-<h3 align="center">A passionate junior frontend developer from Turkey</h3>
+<h3 align="center">Junior Front-End Developer from Turkey</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagancubukcu&label=Profile%20views&color=0e75b6&style=flat" alt="kagancubukcu" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **kagancancubukcu@gmail.com**
 

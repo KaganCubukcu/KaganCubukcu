@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagancubukcu&label=Profile%20views&color=0e75b6&style=flat" alt="kagancubukcu" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **NodeJs**
 
 - 📫 How to reach me **kagancancubukcu@gmail.com**
 

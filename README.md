@@ -1,36 +1,74 @@
-<h1 align="center">Hi 👋, I'm Kağan</h1>
+<h1 align="center">Hi, I'm Kağan</h1>
 <h3 align="center">Junior Front-End Developer from Turkey</h3>
+<!-- Profile views -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kagancubukcu&label=Profile%20views&color=0e75b6&style=flat" alt="kagancubukcu" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kagancubukcu&label=Profile%20views&color=0e75b6&style=flat" alt="kagancubukcu" /> </p>
+<!-- About me -->
 
-- 🌱 I’m currently learning *Vue.js*
+- 🔭 I’m currently working on Cryptocurrency website with React<br>
+- 🌱 I’m currently learning _Vue.js_
 
-- 📫 How to reach me **kagancancubukcu@gmail.com**
+<!-- Connect with me  -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<!-- Logos -->
+
+<p align="left" style="margin-top:2%">
 <a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancubukcu" height="30" width="40" /></a>
 <a href="https://instagram.com/kagancannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancannn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kagancancubukcu" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="kagancannn" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Kagan92" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="kagancannn" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<!-- Tech Stack -->
 
+<h2 align="left">Tech Stack </h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kagancubukcu&" alt="kagancubukcu" /></p>
-<!--START_SECTION:waka-->
+<!-- Header -->
 
-```text
-From: 08 August 2022 - To: 15 August 2022
+<h3>Front-End Developer Starter Kit</h3>
 
-Vue.js       15 mins         ██████████████▒░░░░░░░░░░   56.94 %
-HTML         9 mins          ████████▒░░░░░░░░░░░░░░░░   33.09 %
-CSS          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-```
+<!-- Logos -->
 
-<!--END_SECTION:waka-->
+<!-- Html -->
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/></a>
+<!-- Css -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
+<!-- JS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+</p>
+<h3>Frameworks and libraries</h3>
+<p>
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
+<!-- Vue.js -->
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="40" height="40"/></a>
+</p>
+
+<h3>State management libraries</h3>
+<p>
+<!-- Redux -->
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
+</p>
+<h3>Component libraries</h3>
+<p>
+<!-- Mui -->
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://v4.mui.com/static/logo.png" alt="mui" width="40" height="40"/></a>
+<!-- Boostrap -->
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="boostrap" width="40" height="40"/></a>
+<!-- Styled Components -->
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styledComponent" width="40" height="40"/></a>
+</p>
+<h3>Utility-first frameworks</h3>
+<p>
+<!-- Tailwinds -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/></a>
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kagancubukcu&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)

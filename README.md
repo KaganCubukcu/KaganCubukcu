@@ -47,7 +47,7 @@
 <!-- Next.js -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/></a>
 <!-- Express.js -->
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.w3jar.com/wp-content/uploads/2019/05/express-js-tutorial.png" alt="expressjs" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="40" height="40"/></a>
 <!-- Redux -->
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
 <!-- Mui -->

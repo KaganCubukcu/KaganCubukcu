@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagancubukcu&label=Profile%20views&color=0e75b6&style=flat" alt="kagancubukcu" /></p>
 
-<!-- About me -->
-
-- 🔭 I’m currently working on Cryptocurrency website with React<br>
-- 🌱 I’m currently learning _Vue.js_
-
 <!-- Connect with me  -->
 
 <h3 align="left">Connect with me</h3>

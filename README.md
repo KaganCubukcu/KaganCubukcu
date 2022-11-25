@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Kağan</h1>
 
 <!-- Profile views -->
 
@@ -13,8 +12,6 @@
 <p align="left" style="margin-top:2%">
 <a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancubukcu" height="30" width="40" /></a>
 <a href="https://instagram.com/kagancannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kagancannn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kagancancubukcu" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="kagancannn" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Kagan92" target="blank"><img align="center" src="https://www.svgrepo.com/show/305890/codewars.svg" alt="kagancannn" height="30" width="40" /></a>
 </p>
 <br>
 

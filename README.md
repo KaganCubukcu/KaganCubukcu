@@ -57,3 +57,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kagancubukcu&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

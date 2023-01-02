@@ -59,4 +59,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
+
+
 <!--END_SECTION:waka-->

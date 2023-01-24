@@ -61,12 +61,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 22 January 2023
+From: 16 January 2023 - To: 23 January 2023
 
-TypeScript   16 hrs 40 mins  >>>>>>>>>>>>>>-----------   56.82 %
-C#           12 hrs 16 mins  >>>>>>>>>>---------------   41.86 %
-CSS          8 mins          -------------------------   00.50 %
-Other        7 mins          -------------------------   00.43 %
+TypeScript   14 hrs 7 mins   >>>>>>>>>>>>>>>>---------   63.10 %
+C#           7 hrs 55 mins   >>>>>>>>>----------------   35.39 %
+CSS          8 mins          -------------------------   00.65 %
+Other        4 mins          -------------------------   00.35 %
 ```
 
 <!--END_SECTION:waka-->

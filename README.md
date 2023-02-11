@@ -61,13 +61,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 February 2023 - To: 09 February 2023
+From: 03 February 2023 - To: 10 February 2023
 
-TypeScript   4 hrs 40 mins   >>>>>>>>>>>>>------------   51.59 %
-JavaScript   3 hrs 50 mins   >>>>>>>>>>>--------------   42.27 %
-CSS          27 mins         >------------------------   05.11 %
-JSON         4 mins          -------------------------   00.84 %
-HTML         0 secs          -------------------------   00.18 %
+JavaScript   10 hrs 52 mins  >>>>>>>>>>>>>>>>>>>------   77.44 %
+CSS          1 hr 43 mins    >>>----------------------   12.27 %
+TypeScript   1 hr 21 mins    >>-----------------------   09.63 %
+JSON         4 mins          -------------------------   00.54 %
+HTML         0 secs          -------------------------   00.11 %
 Other        0 secs          -------------------------   00.01 %
 ```
 

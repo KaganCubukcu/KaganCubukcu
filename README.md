@@ -61,14 +61,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 21 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
-JavaScript   15 hrs 33 mins  >>>>>>>>>>>>>>>----------   59.10 %
-TypeScript   7 hrs 11 mins   >>>>>>>------------------   27.34 %
-CSS          1 hr 27 mins    >------------------------   05.52 %
-Python       50 mins         >------------------------   03.17 %
-JSON         43 mins         >------------------------   02.73 %
-HTML         28 mins         -------------------------   01.82 %
+TypeScript   13 hrs 41 mins  >>>>>>>>>>>>-------------   48.46 %
+JavaScript   13 hrs          >>>>>>>>>>>>-------------   46.01 %
+CSS          1 hr 1 min      >------------------------   03.63 %
+HTML         18 mins         -------------------------   01.09 %
+JSON         9 mins          -------------------------   00.59 %
+Bash         2 mins          -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->

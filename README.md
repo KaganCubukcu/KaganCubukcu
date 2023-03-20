@@ -33,9 +33,9 @@
 <!-- Redux -->
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
 <!-- Angular -->
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/></a>
 <!-- ngrx -->
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg
+<a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg
 " alt="ngrx" width="40" height="40"/></a>
 </p>
 

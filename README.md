@@ -16,7 +16,7 @@
 <!-- Tech Stack -->
 
 <h2 align="center">Languages and Tools</h2>
-<div style="display: flex; justify-content: center; flex-direction: column;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 <!-- Html -->
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/></a>

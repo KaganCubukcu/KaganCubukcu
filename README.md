@@ -16,7 +16,7 @@
 <!-- Tech Stack -->
 
 <h2 align="center">Languages and Tools</h2>
-
+<div style="display: flex; justify-content: center; flex-direction: column;">
 <!-- Html -->
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/></a>
@@ -75,7 +75,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
-
+</div>
 <!--START_SECTION:waka-->
 
 ```text

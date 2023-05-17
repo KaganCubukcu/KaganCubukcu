@@ -79,9 +79,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2023 - To: 15 May 2023
+From: 09 May 2023 - To: 16 May 2023
 
-JavaScript   43 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+JavaScript   2 hrs 44 mins   >>>>>>>>>>>>>>>>>>>>-----   80.07 %
+JSON         40 mins         >>>>>--------------------   19.84 %
+Other        0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->

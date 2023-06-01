@@ -7,12 +7,12 @@
 <h3 align="center">Connect with me</h3>
 
 <!-- Logos -->
-<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<p align="center" style="margin-top:2%">
+
+<p align="center"> 
 <a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/kagancancubukcu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/kagancancubukcu/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" height="35" width="40" /></a>
 </p>
-</p>
+
 <br>
 
 <!-- Tech Stack -->
@@ -20,7 +20,7 @@
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
 
-<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+<p>
 <!-- Html -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/></a>
 <!-- Css -->
@@ -68,17 +68,19 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
 <!-- Storybook -->
 <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="storybook" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40"/></a>
 </p>
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<p align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kagancubukcu&theme=gotham&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+</p>
 </div>
-</div>
+
 <!--START_SECTION:waka-->
 
 ```text

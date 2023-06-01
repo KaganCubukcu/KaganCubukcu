@@ -7,9 +7,11 @@
 <h3 align="center">Connect with me</h3>
 
 <!-- Logos -->
-
+<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
 <p align="center" style="margin-top:2%">
-<a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagancubukcu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://leetcode.com/kagancancubukcu/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode" height="30" width="40" /></a>
+</p>
 </p>
 <br>
 
@@ -17,8 +19,9 @@
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
-<!-- Html -->
+
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+<!-- Html -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/></a>
 <!-- Css -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
@@ -35,7 +38,7 @@
 <!-- Angular -->
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/></a>
 <!-- ngrx -->
-<a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg
+<a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://ngrx.io/assets/images/badge.svg
 " alt="ngrx" width="40" height="40"/></a>
 </p>
 

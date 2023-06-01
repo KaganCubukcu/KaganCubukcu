@@ -10,7 +10,7 @@
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
 <p align="center" style="margin-top:2%">
 <a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/kagancancubukcu/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/kagancancubukcu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="leetcode" height="30" width="40" /></a>
 </p>
 </p>
 <br>

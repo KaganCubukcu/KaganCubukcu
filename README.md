@@ -84,13 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2023 - To: 19 June 2023
+From: 13 June 2023 - To: 20 June 2023
 
-Python       15 hrs 12 mins  >>>>>>>>>>>>>>>>>>>>>----   82.34 %
-TypeScript   2 hrs 3 mins    >>>----------------------   11.19 %
-JavaScript   1 hr 5 mins     >------------------------   05.94 %
-CSV          4 mins          -------------------------   00.42 %
-Other        1 min           -------------------------   00.10 %
+Python       13 hrs 31 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.63 %
+TypeScript   1 hr 2 mins     >>-----------------------   06.94 %
+JavaScript   25 mins         >------------------------   02.77 %
+CSV          4 mins          -------------------------   00.52 %
+Other        1 min           -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->

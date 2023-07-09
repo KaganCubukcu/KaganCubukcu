@@ -84,13 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 07 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
-TypeScript   26 hrs 53 mins  >>>>>>>>>>>>>>-----------   54.39 %
-Python       15 hrs 37 mins  >>>>>>>>-----------------   31.59 %
-Vue.js       5 hrs 28 mins   >>>----------------------   11.08 %
-JavaScript   26 mins         -------------------------   00.90 %
-JSON         18 mins         -------------------------   00.61 %
+TypeScript   24 hrs 40 mins  >>>>>>>>>>>>>------------   51.48 %
+Python       19 hrs 49 mins  >>>>>>>>>>---------------   41.34 %
+Vue.js       2 hrs 26 mins   >------------------------   05.08 %
+JavaScript   26 mins         -------------------------   00.92 %
+Markdown     11 mins         -------------------------   00.41 %
 ```
 
 <!--END_SECTION:waka-->

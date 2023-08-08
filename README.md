@@ -84,13 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2023 - To: 06 August 2023
+From: 31 July 2023 - To: 07 August 2023
 
-JavaScript   2 hrs 1 min     >>>>>>-------------------   24.32 %
-TypeScript   1 hr 49 mins    >>>>>--------------------   21.88 %
-C#           1 hr 47 mins    >>>>>--------------------   21.50 %
-Python       1 hr            >>>----------------------   12.17 %
-HTML         47 mins         >>-----------------------   09.52 %
+TypeScript   2 hrs 33 mins   >>>>>>>>-----------------   32.61 %
+JavaScript   2 hrs 30 mins   >>>>>>>>-----------------   31.91 %
+C#           1 hr 18 mins    >>>>---------------------   16.69 %
+Python       40 mins         >>-----------------------   08.53 %
+Binary       21 mins         >------------------------   04.50 %
 ```
 
 <!--END_SECTION:waka-->

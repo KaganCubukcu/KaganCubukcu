@@ -38,7 +38,7 @@
 <!-- Angular -->
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/></a>
 <!-- ngrx -->
-<a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/322861487/c2838080-43e2-11eb-8016-9efa387786c8" alt="ngrx" width="40" height="40"/></a>
+<a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*5zpbjCn8betvlI3FN5fiyQ.png" alt="ngrx" width="40" height="40"/></a>
 </p>
 
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">

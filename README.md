@@ -10,7 +10,6 @@
 
 <p align="center"> 
 <a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/kagancancubukcu/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" height="35" width="40" /></a>
 </p>
 
 <br>

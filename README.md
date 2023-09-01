@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-C#               4 hrs 42 mins   >>>>>>>>>>>>>>>----------   60.34 %
-CSHTML           2 hrs 2 mins    >>>>>>>------------------   26.11 %
-XML              24 mins         >------------------------   05.18 %
-Python           10 mins         >------------------------   02.22 %
-Assembly         8 mins          -------------------------   01.92 %
+CSHTML           1 hr 20 mins    >>>>>>>>>>>>-------------   49.33 %
+C#               1 hr 1 min      >>>>>>>>>----------------   37.99 %
+Assembly         8 mins          >------------------------   05.51 %
+ca65 assembler   3 mins          -------------------------   01.91 %
+TypeScript       2 mins          -------------------------   01.78 %
 ```
 
 <!--END_SECTION:waka-->

@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-TypeScript   7 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.29 %
-Bash         22 mins         >------------------------   04.76 %
-JSON         16 mins         >------------------------   03.55 %
-JavaScript   6 mins          -------------------------   01.32 %
-YAML         0 secs          -------------------------   00.07 %
+TypeScript   8 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.19 %
+Vim Script   32 mins         >------------------------   05.67 %
+Bash         22 mins         >------------------------   03.99 %
+JSON         16 mins         >------------------------   02.97 %
+JavaScript   6 mins          -------------------------   01.10 %
 ```
 
 <!--END_SECTION:waka-->

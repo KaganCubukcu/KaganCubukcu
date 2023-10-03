@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2023 - To: 01 October 2023
+From: 25 September 2023 - To: 02 October 2023
 
-TypeScript   9 hrs 52 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.36 %
-JSON         47 mins         >>-----------------------   07.38 %
-JavaScript   3 mins          -------------------------   00.56 %
-TSConfig     2 mins          -------------------------   00.41 %
-Python       1 min           -------------------------   00.15 %
+TypeScript   8 hrs 36 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.18 %
+JSON         38 mins         >>-----------------------   06.74 %
+JavaScript   13 mins         >------------------------   02.44 %
+TSConfig     1 min           -------------------------   00.30 %
+Python       1 min           -------------------------   00.18 %
 ```
 
 <!--END_SECTION:waka-->

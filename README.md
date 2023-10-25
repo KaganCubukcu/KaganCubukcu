@@ -82,7 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 23 October 2023
+From: 17 October 2023 - To: 24 October 2023
 
 Markdown     2 hrs 56 mins   >>>>>>>>>>>>>>-----------   56.51 %
 JavaScript   2 hrs 13 mins   >>>>>>>>>>>--------------   42.68 %

@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
-TypeScript       21 hrs 29 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.95 %
-GitIgnore file   25 mins         -------------------------   01.87 %
-JSON             24 mins         -------------------------   01.80 %
-CSS              20 mins         -------------------------   01.52 %
-Markdown         6 mins          -------------------------   00.51 %
+TypeScript       24 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.16 %
+JSON             39 mins         >------------------------   02.50 %
+GitIgnore file   27 mins         -------------------------   01.74 %
+TSConfig         24 mins         -------------------------   01.57 %
+CSS              20 mins         -------------------------   01.31 %
 ```
 
 <!--END_SECTION:waka-->

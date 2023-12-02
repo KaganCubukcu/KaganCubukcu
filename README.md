@@ -82,13 +82,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2023 - To: 29 November 2023
+From: 23 November 2023 - To: 30 November 2023
 
-C#               4 hrs 36 mins   >>>>>>>>>>>>>------------   50.29 %
-TypeScript       3 hrs 10 mins   >>>>>>>>>----------------   34.65 %
-Markdown         54 mins         >>-----------------------   09.85 %
-GitIgnore file   14 mins         >------------------------   02.64 %
-Bash             5 mins          -------------------------   01.07 %
+C#   2 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->

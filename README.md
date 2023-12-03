@@ -82,9 +82,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-C#   2 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C#           2 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>>--   90.10 %
+JSON         10 mins         >>-----------------------   07.75 %
+TypeScript   2 mins          -------------------------   01.47 %
+TSConfig     0 secs          -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->

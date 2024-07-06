@@ -78,14 +78,3 @@
 
 </p>
 </div>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 June 2024 - To: 05 July 2024
-
-TypeScript   0 secs          >>>>>>>>>>>>>>>>>>-------   70.35 %
-HTML         0 secs          >>>>>>>------------------   29.65 %
-```
-
-<!--END_SECTION:waka-->

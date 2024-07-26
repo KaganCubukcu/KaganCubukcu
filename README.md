@@ -4,12 +4,15 @@
 
 <!-- Connect with me  -->
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Let's Get in Touch</h3>
 
 <!-- Logos -->
 
-<p align="center"> 
+<p align="center">
+<!-- LinkedIn -->
 <a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<!-- Google -->
+<a href="mailto:kagancubukcu@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" height="35" width="35" /></a>
 </p>
 
 <br>
@@ -61,10 +64,22 @@
 <!-- Tailwinds -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/></a>
 </p>
+
+<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+<!-- .NET -->
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+<!-- SQL -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/></a>
+<!-- SSMS -->
+<a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="ssms" width="40" height="40"/></a>
+<!-- Azure -->
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+</p>
+
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
 <!-- Postman -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
-  
+<!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40"/></a>
 </p>
 

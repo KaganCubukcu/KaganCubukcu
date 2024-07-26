@@ -36,7 +36,7 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
 <!-- Angular -->
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/></a>
-<!-- ngrx -->
+<!-- NgRx -->
 <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="40" height="40"/></a>
 </p>
 
@@ -62,10 +62,9 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/></a>
 </p>
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<!-- Postsman -->
+<!-- Postman -->
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
-<!-- Storybook -->
-<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="storybook" width="40" height="40"/></a>
+  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40"/></a>
 </p>
 

@@ -7,8 +7,6 @@
 <p align="center">
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<!-- Google -->
-<a href="mailto:kagancubukcu@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" height="35" width="35" /></a>
 </p>
 
 <br>
@@ -28,15 +26,16 @@
 <!-- TypeScript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/></a>
 </p>
+
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<!-- Redux -->
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
 <!-- Angular -->
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/></a>
 <!-- NgRx -->
 <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="40" height="40"/></a>
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/></a>
+<!-- Redux -->
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
 </p>
 
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
@@ -51,12 +50,8 @@
 
 </p>
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<!-- Mui -->
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://v4.mui.com/static/logo.png" alt="mui" width="40" height="40"/></a>
 <!-- Boostrap -->
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="boostrap" width="40" height="40"/></a>
-<!-- Styled Components -->
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styledComponent" width="40" height="40"/></a>
 <!-- Tailwinds -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/></a>
 </p>
@@ -65,7 +60,7 @@
 <!-- .NET -->
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
 <!-- SQL -->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sql" width="40" height="40"/></a>
 <!-- SSMS -->
 <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="ssms" width="40" height="40"/></a>
 <!-- Azure -->
@@ -81,10 +76,10 @@
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kagancubukcu&theme=gotham&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=kagancubukcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kagancubukcu&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </p>
 </div>

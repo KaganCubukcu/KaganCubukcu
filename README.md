@@ -38,6 +38,13 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
 </p>
 
+<p>
+<!-- PHP -->
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="php" width="40" height="40"/></a>
+<!-- Laravel -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/></a>
+</p>
+
 <p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/></a>

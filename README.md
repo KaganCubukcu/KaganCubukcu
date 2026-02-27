@@ -36,8 +36,8 @@ Software Developer focused on building modern web applications.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kagancubukcu&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&layout=compact&theme=transparent&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kagancubukcu&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kagancubukcu&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">

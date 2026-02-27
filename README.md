@@ -1,92 +1,69 @@
-<!-- Connect with me  -->
+# Hi there, I'm Kağan! 👋
 
-<h3 align="center">Let's Get in Touch</h3>
+Software Developer focused on building modern web applications.
 
-<!-- Logos -->
+---
+
+### 🚀 2026 Roadmap & Projects
+
+- **[incident-tracker](https://github.com/kagancubukcu/incident-tracker)** - A modern, full-stack incident management application built with NestJS, React, and Prisma. This project allows users to track, manage, and prioritize technical or operational incidents.
+- **[sharedWallet](https://github.com/kagancubukcu/sharedWallet)** - _(In Progress)_ Real-time shared budget tracking application built with .NET Core, SignalR, Angular, NgRx, and PostgreSQL. Features a sleek Midnight dark-mode UI and secure JWT authentication.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" />
+</p>
+
+#### **Backend & Database**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,dotnet,mongodb,mysql,azure" />
+</p>
+
+#### **OS, Tools & Others**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mint,linux,git,github,vscode,postman,figma" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/kagancubukcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<!-- Tech Stack -->
-
-<h2 align="center">Languages and Tools</h2>
-<div align="center">
-
-<p>
-<!-- Html -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/></a>
-<!-- Css -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
-<!-- JS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/></a>
-</p>
-
-<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<!-- Angular -->
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/></a>
-<!-- NgRx -->
-<a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ngrx.svg" alt="ngrx" width="40" height="40"/></a>
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/></a>
-<!-- Redux -->
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
-</p>
-
-<p>
-<!-- PHP -->
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="php" width="40" height="40"/></a>
-<!-- Laravel -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/></a>
-</p>
-
-<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/></a>
-<!-- Node.js -->
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
-<!-- Next.js -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency-systems-regular/344/nextjs.png" alt="nextjs" width="40" height="40"/></a>
-<!-- Express.js -->
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/344/express-js.png" alt="expressjs" width="40" height="40"/></a>
-
-</p>
-<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<!-- Boostrap -->
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="boostrap" width="40" height="40"/></a>
-<!-- Tailwinds -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/></a>
-</p>
-
-<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<!-- .NET -->
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-<!-- SQL -->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sql" width="40" height="40"/></a>
-<!-- SSMS -->
-<a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="ssms" width="40" height="40"/></a>
-<!-- Azure -->
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-</p>
-
-<p style="display: flex; gap: 10px; align-items: center; justify-content: center;">
-<!-- Postman -->
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kagancubukcu&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&layout=compact&theme=transparent&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=kagancubukcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kagancubukcu&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagancubukcu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagancubukcu&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
-</div>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/kagancubukcu" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<br />
+
+<p align="right">
+  <i>"Always coded with passion."</i>
+</p>
+
+---
+
+<details>
+  <summary>🔍 <b>Deep Dive</b> (Coding Statistics)</summary>
+  <br/>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>

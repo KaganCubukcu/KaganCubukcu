@@ -22,7 +22,7 @@ Software Developer focused on building modern web applications.
 #### **Backend & Database**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,dotnet,mongodb,mysql,azure" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,azure" />
 </p>
 
 #### **OS, Tools & Others**
@@ -59,11 +59,3 @@ Software Developer focused on building modern web applications.
 </p>
 
 ---
-
-<details>
-  <summary>🔍 <b>Deep Dive</b> (Coding Statistics)</summary>
-  <br/>
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</details>

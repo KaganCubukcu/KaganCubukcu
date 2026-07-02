@@ -8,6 +8,7 @@ Software Developer focused on building modern web applications.
 
 - **[incident-tracker](https://github.com/kagancubukcu/incident-tracker)** - A modern, full-stack incident management application built with NestJS, React, and Prisma. This project allows users to track, manage, and prioritize technical or operational incidents.
 - **[sharedWallet](https://github.com/kagancubukcu/sharedWallet)** - _(In Progress)_ Real-time shared budget tracking application built with .NET Core, SignalR, Angular, NgRx, and PostgreSQL. Features a sleek Midnight dark-mode UI and secure JWT authentication.
+- work-tracker - _(In Progress)_ A personal daily work-tracking dashboard built with .NET 10 Minimal API, Angular 22 (Signals, zoneless), and SQLite. Features a live work-session timer with break-aware net remaining time, todo management, timestamped daily logs, and a tenure badge — all in a dark ambient UI with IBM Plex typography.
 
 ---
 

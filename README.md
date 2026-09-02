@@ -43,10 +43,4 @@ Software Developer focused on building modern web applications.
 <a href="https://linkedin.com/in/kagancubukcu" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<br />
-
-<p align="right">
-  <i>"Always coded with passion."</i>
-</p>
-
 ---
